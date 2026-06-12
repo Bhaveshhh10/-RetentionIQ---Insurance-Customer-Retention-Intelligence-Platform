@@ -4,7 +4,7 @@ An enterprise-grade B2B Customer Retention and Churn Analytics SaaS platform bui
 
 This platform uses an end-to-end Machine Learning pipeline to predict customer churn risk, explain individual and global risk factors using SHAP (Explainable AI), and simulate the financial impact of retention strategies in real-time.
 
-![RetentionIQ Executive Dashboard Preview](assets/executive_dashboard.png)
+![RetentionIQ Executive Dashboard Preview](assets/executive_dashboard_part1.png)
 
 ---
 
@@ -15,7 +15,8 @@ This platform uses an end-to-end Machine Learning pipeline to predict customer c
 * **Executive Metrics**: Total Customers, High-Risk counts, Revenue at Risk, expected annual loss, and Model Confidence (ROC-AUC 0.785).
 * **Plotly Visualizations**: Beautiful, interactive charts showing regional risk analysis, policy type breakdowns, and behavioral correlations.
 
-![Executive Dashboard](assets/executive_dashboard.png)
+![Executive Dashboard - Overview & Metrics](assets/executive_dashboard_part1.png)
+![Executive Dashboard - Detailed Risk & Behavioral Analysis](assets/executive_dashboard_part2.png)
 
 ### 2. 🔍 Customer Explorer
 * **Detailed Profiling**: Demographics, tenure, policy characteristics, and financial summary for individual policyholders.
