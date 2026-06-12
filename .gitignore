@@ -1,0 +1,23 @@
+# Python Virtual Environment
+venv/
+.env
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local state
+.streamlit/runtime.txt
+.streamlit/config.toml.bak
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/

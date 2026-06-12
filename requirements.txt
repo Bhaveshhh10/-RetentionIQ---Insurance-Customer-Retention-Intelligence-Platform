@@ -1,0 +1,8 @@
+streamlit>=1.58.0
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+shap>=0.52.0
+joblib
